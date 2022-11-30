@@ -3,3 +3,7 @@
 tmp*
 a.out
 9cc
+
+known_hosts
+.gitconfig
+.bash_history
